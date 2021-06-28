@@ -1,4 +1,20 @@
-# Module_2_Challenge
+# **Module_2_Challenge**
+
+
+## **Overview of Project**
+### **Purpose**
+- The purpose and background are well defined
+
+
+### **Results**
+ - Analysis is well descripbed with screenshots and code
+
+### **Summary**
+
+1. Detailed statement on the advantages and disadvantages of refactoring code ingeneral
+2. Detailed statement on the advantages and disadvantages of the original and refactored VBA script
+
+
 
 #Paths
 Resources/VBA_Challenge_2017.PNG
