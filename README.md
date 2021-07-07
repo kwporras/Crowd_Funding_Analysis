@@ -10,10 +10,10 @@ The run time differences between the refactoring of the code can be seen below. 
  
  ### [Original code](Resources/VBA_challenge_2_original_vba_code.PNG)
  ##### 2017
- ![alt text](https://github.com/kwporras/Module_2_Challenge/blob/5462ce07cf243cfda36b19da3a95064c03f7189e/Resources/VBA_Challenge_2017_Original.PNG)
+ ![alt text](
  
  #### 2018
- ![alt text](https://github.com/kwporras/Module_2_Challenge/blob/5462ce07cf243cfda36b19da3a95064c03f7189e/Resources/VBA_Challenge_2018_Original.PNG)
+ ![alt text](
  
  ### [Refactored code](Resources/VBA_challenge_2_refactored_vba_code.PNG)
  
